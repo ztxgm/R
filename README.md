@@ -17,4 +17,6 @@
 
 **Lab8** - Stream API
 
+**Lab9** - Reflect API
+
 ### ***Выполнил: Милёхин Н.Д.***
